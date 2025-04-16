@@ -1,0 +1,1 @@
+In this project an exploratory data analysis is conducted on Global Mart's sales using Python to uncover insights about the data. Skills displayed: data importation, data cleaning, basic analysis, and visualisation creation.
